@@ -1,0 +1,7 @@
+{
+  "projectId": "ymoc6g",
+  "viewportWidth": 1100,
+  "viewportHeight": 660,
+  "testFiles": "**/*.js",
+  "integrationFolder": "Tests"
+  }
